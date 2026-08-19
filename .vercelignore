@@ -1,0 +1,9 @@
+node_modules
+dist
+.vite
+*.log
+dev.pid
+design
+reference
+reference_frames
+reference_video_audit
